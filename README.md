@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Shopify, React Js, GraphQL, Tailwind, Node Js, Express Js, MongoDB, PostgreSQL, Restful APIs**
 
-- 📫 How to reach me **armughal.dev@gmail.com**
+- 📫 How to reach me **abdulrehmand337@gmail.com**
 
 
 <br>
@@ -22,7 +22,7 @@
 <h3 align="left">Development Stuff:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armwd&show_icons=true&locale=en&layout=compact" alt="armwd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armwd&show_icons=true&locale=en" alt="armwd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrehman01-dev&show_icons=true" alt="armwd" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
